@@ -17,7 +17,7 @@ __author__='''
 ######################################################
 #
 # ---------------- READ ME ---------------------------------------------
-# This Script is Created Only For Practise And Educational Purpose Only
+# This Script is Created For Practise And Educational Purpose Only
 # I will Not Take Any Type Of Responsibility.
 # Use This Script On Your Own Responsibility.
 # No Warranty, No Responsibility
