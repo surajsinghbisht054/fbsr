@@ -1,10 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-#
-# ---------------- READ ME ---------------------------------------------
-# This Script is Created Only For Practise And Educational Purpose Only
-# This Script Is Created For http://bitforestinfo.blogspot.in
-# This Script is Written By
+
 __author__='''
 
 ######################################################
@@ -19,7 +15,16 @@ __author__='''
 
     Note: We Feel Proud To Be Indian
 ######################################################
+#
+# ---------------- READ ME ---------------------------------------------
+# This Script is Created Only For Practise And Educational Purpose Only
+# I will Not Take Any Type Of Responsibility.
+# Use This Script On Your Own Responsibility.
+# No Warranty, No Responsibility
+# This Script Is Only A Example. Created For http://bitforestinfo.blogspot.com
+
 '''
+print __author__
 # Import Modules
 import mechanize
 import cookielib
